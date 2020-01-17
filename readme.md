@@ -15,7 +15,7 @@
 
 | Player | Gold Stars | Silver Stars | Points | Language | Code |
 |--|--|--|--|--|--|
-| Birgit  | 13 | 3 | 42 | ? | ? |
+| Birgit  | 13 | 3 | 42 | Python | [Repo](https://github.com/breibi/adventofcode2019) |
 | Mgdlnbr | 3 | 1 | 10 | Python | [Repo](https://github.com/mgdlnbr/adventofcode2019) |
 | Thomas | 3 | 0 | 9 | ? | ? |
 
