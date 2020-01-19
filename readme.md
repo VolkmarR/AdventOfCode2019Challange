@@ -23,5 +23,5 @@
 
 | Player | Gold Stars | Silver Stars | Points | Language | Code |
 |--|--|--|--|--|--|
-| Lukas  | 14 | 2 | 44 | ? | ? |
+| Lukas  | 14 | 2 | 44 | TypeScript | [Repo](https://github.com/demetzlukas/advent-of-code-2019) |
 | Michael | 13 | 2 | 41 | Python | ? |
